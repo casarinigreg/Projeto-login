@@ -37,7 +37,7 @@ section#login {
 
 section#login > div#img {
     display: block;
-    background: rgb(36, 48, 88) url(../imagens/imagem.jpg) no-repeat left bottom;
+    background: rgb(36, 48, 88) no-repeat left bottom;
     background-size: cover;
     height: 200px;
 }
